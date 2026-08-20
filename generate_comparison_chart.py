@@ -33,7 +33,7 @@ def generate_comparison_chart():
         x - width/2, 
         brics_adjusted_avg, 
         width, 
-        label='Russia Ban Adjusted BRICS Average', 
+        label='BRICS Average(Russia Ban Adjusted)', 
         color=color_brics,
         edgecolor='#fbbf24',
         linewidth=1.5,
@@ -108,13 +108,13 @@ def generate_comparison_chart():
         "• Overall BRICS Advantage: +91.1%"
     )
     fig.text(
-        0.14, 0.82, grand_text,
+        0.08, 0.79, grand_text,
         fontsize=10, color='#e6edf3',
         bbox=dict(boxstyle='round,pad=0.6', facecolor='#21262d', edgecolor='#30363d', alpha=0.95, lw=1.2)
     )
 
     # Titles & Labels
-    ax.set_title('BRICS (Russia Ban Adjusted) vs. G7 STEM Talent Comparison\nAverage Gold Medals per Country by Olympiad Discipline (2007–2026)', 
+    ax.set_title('BRICS vs. G7 STEM Talent Comparison\nAverage Gold Medals per Country by Olympiad Discipline (2007–2026)', 
                  fontsize=15, fontweight='bold', color='#f0f6fc', pad=24)
     ax.set_xticks(x)
     ax.set_xticklabels(olympiads, fontsize=11, fontweight='semibold', color='#c9d1d9')
@@ -152,6 +152,7 @@ def generate_comparison_chart():
     output_dir.mkdir(parents=True, exist_ok=True)
     output_path = output_dir / "brics_vs_g7_comparison.png"
     plt.savefig(output_path, dpi=300, facecolor=fig.get_facecolor(), bbox_inches='tight')
+    # plt.show()
     plt.close()
     print(f"Chart saved successfully at {output_path}")
 
