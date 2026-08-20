@@ -1,5 +1,7 @@
 # BRICS-vs-G7-STEM-Talent
 
+![BRICS vs G7 STEM Talent Comparison](assets/brics_vs_g7_comparison.png)
+
 ### 1. International Mathematical Olympiad (IMO) Gold Medals (2007–2026)
 
 | BRICS Country | Golds | G7 Country | Golds |
