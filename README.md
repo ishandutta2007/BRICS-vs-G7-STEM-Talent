@@ -13,6 +13,7 @@
 | — | — | Italy | 11 |
 | **BRICS TOTAL** | **227** | **G7 TOTAL** | **228** |
 | **BRICS AVERAGE** | **45.4** | **G7 AVERAGE** | **32.6** |
+| **RUSSIA BAN ADJUSTED BRICS AVERAGE** | **50.2** | — | — |
 
 ---
 
@@ -29,6 +30,7 @@
 | — | — | Italy | 3 |
 | **BRICS TOTAL** | **233** | **G7 TOTAL** | **149** |
 | **BRICS AVERAGE** | **46.6** | **G7 AVERAGE** | **21.3** |
+| **RUSSIA BAN ADJUSTED BRICS AVERAGE** | **51.6** | — | — |
 
 ---
 
@@ -45,6 +47,7 @@
 | — | — | Italy | 2 |
 | **BRICS TOTAL** | **181** | **G7 TOTAL** | **127** |
 | **BRICS AVERAGE** | **36.2** | **G7 AVERAGE** | **18.1** |
+| **RUSSIA BAN ADJUSTED BRICS AVERAGE** | **40.4** | — | — |
 
 ---
 
@@ -61,6 +64,7 @@
 | — | — | France | 0 |
 | **BRICS TOTAL** | **167** | **G7 TOTAL** | **129** |
 | **BRICS AVERAGE** | **33.4** | **G7 AVERAGE** | **18.4** |
+| **RUSSIA BAN ADJUSTED BRICS AVERAGE** | **36.8** | — | — |
 
 ---
 
@@ -77,10 +81,11 @@
 | — | — | Italy | 4 |
 | **BRICS TOTAL** | **154** | **G7 TOTAL** | **152** |
 | **BRICS AVERAGE** | **30.8** | **G7 AVERAGE** | **21.7** |
+| **RUSSIA BAN ADJUSTED BRICS AVERAGE** | **34.8** | — | — |
 
 ---
 
 ### Grand Tally Summary
-* **BRICS Total Golds:** 962 (Average of **192.4** golds per nation across all 5 disciplines)
-* **G7 Total Golds:** 785 (Average of **112.1** golds per nation across all 5 disciplines)
-
+* **BRICS Total Golds:** 962 (Average of **192.4** / Adjusted Average of **212.4** across all 5 disciplines)
+* **G7 Total Golds:** 785 (Average of **112.1** across all 5 disciplines)
+* RUSSIA is Banned after Ukraine attack, so its numbers have fallen.That's why we added another row to simulate the average if Russia was not banned.
